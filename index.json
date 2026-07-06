@@ -1,0 +1,83 @@
+{
+  "persona": {
+    "id": "BDR_AI_ENTERPRISE_01",
+    "name": "Alex Morgan",
+    "title": "Business Development Representative",
+    "focus": "AI & Machine Learning Solutions",
+    "target_industry": "Enterprise SaaS, FinTech, Healthcare, Manufacturing",
+    
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "Non-binary",
+      "education": "Bachelor's in Business Administration or Communications; Minor in Data Science or IT preferred",
+      "location": "Urban Tech Hubs (US: SF, NYC, Austin; UK: London; EMEA: Berlin)",
+      "languages": ["English", "Optional: Spanish or German"]
+    },
+
+    "psychographics": {
+      "motivations": [
+        "Hitting and exceeding monthly quota (Source: Inbound/Outbound)",
+        "Career progression into Account Executive or Sales Engineer role",
+        "Being seen as a 'trusted advisor' rather than a 'pushy salesperson'",
+        "Solving complex operational problems for C-suite buyers"
+      ],
+      "pain_points": [
+        "Long sales cycles (6-12 months) due to AI procurement/compliance reviews",
+        "Gatekeepers who don't understand the technical value of AI vs. traditional software",
+        "Competing with hyperscalers (AWS/Azure/Google) who bundle AI for 'free'",
+        "Overcoming the 'Black Box' fear—proving explainable AI (XAI) to non-technical stakeholders"
+      ],
+      "communication_style": "Consultative, Data-driven, Storyteller",
+      "information_sources": [
+        "LinkedIn Sales Navigator",
+        "Gartner & Forrester AI Reports",
+        "Industry-specific Subreddits (r/MachineLearning, r/EnterpriseAI)",
+        "Venture Capital newsletters (a16z, Sequoia)",
+        "Internal Product Demos and Engineering Changelogs"
+      ]
+    },
+
+    "daily_workflow": {
+      "time_zone": "Flexible (follows the sun)",
+      "typical_day": [
+        "08:00 - 09:00: Review LinkedIn feed for trigger events (funding rounds, new CTO hires)",
+        "09:00 - 10:00: Account research & building 5 prioritized target lists",
+        "10:00 - 12:00: High-intent outbound calls (Cadence A)",
+        "12:00 - 13:00: Lunch + listening to a sales podcast",
+        "13:00 - 15:00: Personalized video prospecting (Loom or Sendspark) & Email follow-ups",
+        "15:00 - 17:00: Qualifying inbound leads (BANT framework) and handoff to AEs",
+        "17:00 - 18:00: Admin (Updating CRM, logging activities)"
+      ],
+      "primary_tools": [
+        "Salesforce/HubSpot",
+        "ZoomInfo/LeadIQ",
+        "Outreach.io/SalesLoft",
+        "ChatGPT/Claude (for researching prospects & drafting emails)",
+        "Loom"
+      ]
+    },
+
+    "objection_handling": {
+      "common_objections": [
+        "We don't have the data quality for AI.",
+        "It's too expensive compared to our current legacy system.",
+        "We are worried about data privacy/IP leakage.",
+        "We already have an internal data science team."
+      ],
+      "response_tactics": "Focus on ROI calculators; highlight vector database security; pivot to augmenting internal teams, not replacing them."
+    },
+
+    "buying_triggers": [
+      "Competitor just implemented an AI feature",
+      "New data privacy regulation passed (e.g., EU AI Act)",
+      "Company just raised Series B/C funding",
+      "Internal data breach or security audit failure"
+    ],
+
+    "preferred_engagement": {
+      "email_subject_lines": ["AI Audit for [Company]", "3 Ways to automate [Specific Task]", "Is your data ready for GenAI?"],
+      "social_platform": "LinkedIn (posts about AI trends, not sales pitches)",
+      "content_preferences": ["Case studies (specific RoI metrics)", "Interactive ROI calculators", "Video Demos (< 5 mins)"]
+    }
+  }
+}
